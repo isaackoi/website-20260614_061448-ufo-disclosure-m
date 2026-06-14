@@ -28,8 +28,8 @@ endnotes_mode: 'auto'
 endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
-baseurl: "/website-20260614_061448-ufo-disclosure-m"
-url: "https://isaackoi.github.io"
+baseurl: ""
+url: "https://uap-disclosure.branchoria.com"
 ui_priority: 'home-first'
 homepage_audience_mode: 'production'
 homepage_copy_policy: 'polished'
