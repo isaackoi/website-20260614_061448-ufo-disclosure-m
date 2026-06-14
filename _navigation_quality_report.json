@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-14T05:09:24.694180Z",
+  "summary": {
+    "total_pages_with_permalink": 241,
+    "visible_pages": 210,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1405,
+    "inline_internal_target_page_count": 210,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 209,
+    "average_inline_inbound_links_per_visible_page": 6.69,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "ufo_disclosure_movem_b83b6e",
+        "title": "What UFO Disclosure Can Actually Prove",
+        "permalink": "/ufo-disclosure-movement/",
+        "inline_inbound_count": 151
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3",
+        "title": "Media",
+        "permalink": "/media/",
+        "inline_inbound_count": 148
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_ordinary_uap_explana_7f6769",
+        "title": "Explanations",
+        "permalink": "/explanations/",
+        "inline_inbound_count": 131
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2",
+        "title": "Researchers",
+        "permalink": "/researchers/",
+        "inline_inbound_count": 108
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_ufo_secrecy_disputes_4a8d82",
+        "title": "Secrecy",
+        "permalink": "/secrecy/",
+        "inline_inbound_count": 86
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_uap_sensor_standards_756204",
+        "title": "Sensor Data",
+        "permalink": "/sensor-data/",
+        "inline_inbound_count": 70
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5",
+        "title": "Drones",
+        "permalink": "/drones/",
+        "inline_inbound_count": 62
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe",
+        "title": "Stigma",
+        "permalink": "/stigma/",
+        "inline_inbound_count": 59
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_uap_public_trust_045e6b",
+        "title": "Trust",
+        "permalink": "/trust/",
+        "inline_inbound_count": 54
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_congress_uap_hearing_397803",
+        "title": "Hearings",
+        "permalink": "/hearings/",
+        "inline_inbound_count": 51
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5",
+        "title": "ODNI",
+        "permalink": "/odni/",
+        "inline_inbound_count": 38
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_defence_contractors_601e84",
+        "title": "Contractors",
+        "permalink": "/contractors/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18",
+        "title": "Blue Book",
+        "permalink": "/blue-book/",
+        "inline_inbound_count": 33
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b",
+        "title": "Whistleblowers",
+        "permalink": "/whistleblowers/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_tic_tac_encounter_7e7710",
+        "title": "Tic Tac",
+        "permalink": "/tic-tac/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_recovered_craft_clai_2845ca",
+        "title": "Recovered Craft",
+        "permalink": "/recovered-craft/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_schumer_rounds_act_f91d98",
+        "title": "Disclosure Act",
+        "permalink": "/disclosure-act/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7",
+        "title": "Bipartisan",
+        "permalink": "/bipartisan/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "title": "Navy Videos",
+        "permalink": "/navy-videos/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db",
+        "title": "Grusch Claims",
+        "permalink": "/grusch-claims/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "title": "NASA Study",
+        "permalink": "/nasa-study/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "title": "Pilot Safety",
+        "permalink": "/pilot-safety/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1",
+        "title": "Military Sites",
+        "permalink": "/military-sites/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_disclosure_movement_03b7a1",
+        "title": "Factions",
+        "permalink": "/factions/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_ufo_to_uap_language_956425",
+        "title": "UAP Language",
+        "permalink": "/uap-language/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "title": "AARO Reports",
+        "permalink": "/aaro-reports/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "title": "CIA Files",
+        "permalink": "/cia-files/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18_701_unidentified_cas_992217",
+        "title": "701 Unidentified",
+        "permalink": "/701-unidentified/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_alien_claims_officia_10200d",
+        "title": "Alien Claims",
+        "permalink": "/alien-claims/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_pentagon_2017_shift_721c4f",
+        "title": "2017 Shift",
+        "permalink": "/2017-shift/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_uap_records_collecti_736606",
+        "title": "NARA Records",
+        "permalink": "/nara-records/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_uap_security_framing_98e2bd",
+        "title": "Security Frame",
+        "permalink": "/security-frame/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_21_cases_688683",
+        "title": "AARO 21 Cases",
+        "permalink": "/aaro-21-cases/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_active_archive_7c5de4",
+        "title": "AARO Active Archive 7 C5 De 4",
+        "permalink": "/aaro-active-archive-7-c5-de-4/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_imagery_cases_062171",
+        "title": "AARO Imagery Cases",
+        "permalink": "/aaro-imagery-cases/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_late_reports_917ee4",
+        "title": "AARO Late Reports 917 Ee 4",
+        "permalink": "/aaro-late-reports-917-ee-4/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_prosaic_counts_f98c38",
+        "title": "AARO Prosaic Counts F98 C38",
+        "permalink": "/aaro-prosaic-counts-f98-c38/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_sensor_gaps_948432",
+        "title": "AARO Sensor Gaps",
+        "permalink": "/aaro-sensor-gaps/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_alien_claims_officia_10200d_aaro_evidence_thresh_9a3bf7",
+        "title": "AARO Evidence Thresh 9 A3 Bf 7",
+        "permalink": "/aaro-evidence-thresh-9-a3-bf-7/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "ufo_disclosure_movem_b83b6e_alien_claims_officia_10200d_blue_book_unproved_5632ea",
+        "title": "Blue Book Unproved 5632 Ea",
+        "permalink": "/blue-book-unproved-5632-ea/",
+        "inline_inbound_count": 1
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_alien_claims_officia_10200d",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_congress_uap_hearing_397803",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_defence_contractors_601e84",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_disclosure_movement_03b7a1",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_ordinary_uap_explana_7f6769",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_pentagon_2017_shift_721c4f",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_recovered_craft_clai_2845ca",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_schumer_rounds_act_f91d98",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_tic_tac_encounter_7e7710",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_uap_public_trust_045e6b",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_uap_records_collecti_736606",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_uap_security_framing_98e2bd",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_uap_sensor_standards_756204",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_ufo_secrecy_disputes_4a8d82",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e",
+        "to": "ufo_disclosure_movem_b83b6e_ufo_to_uap_language_956425",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_alien_claims_officia_10200d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_congress_uap_hearing_397803",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_defence_contractors_601e84",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_disclosure_movement_03b7a1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_ordinary_uap_explana_7f6769",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_pentagon_2017_shift_721c4f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_recovered_craft_clai_2845ca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_schumer_rounds_act_f91d98",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_tic_tac_encounter_7e7710",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_uap_public_trust_045e6b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_uap_records_collecti_736606",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_uap_security_framing_98e2bd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_uap_sensor_standards_756204",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_ufo_secrecy_disputes_4a8d82",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_ufo_to_uap_language_956425",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_21_cases_688683",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_active_archive_7c5de4",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_imagery_cases_062171",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_late_reports_917ee4",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_prosaic_counts_f98c38",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_aaro_sensor_gaps_948432",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "to": "ufo_disclosure_movem_b83b6e",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_alien_claims_officia_10200d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_congress_uap_hearing_397803",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_defence_contractors_601e84",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_disclosure_movement_03b7a1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_ordinary_uap_explana_7f6769",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_pentagon_2017_shift_721c4f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_recovered_craft_clai_2845ca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_schumer_rounds_act_f91d98",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_tic_tac_encounter_7e7710",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_public_trust_045e6b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_records_collecti_736606",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_security_framing_98e2bd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_sensor_standards_756204",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_ufo_secrecy_disputes_4a8d82",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_ufo_to_uap_language_956425",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_cia_files_not_proof_156b8f",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_crest_release_transp_ef3b5f",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_robertson_panel_dist_e38ed3",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_soviet_ufo_exploitat_43652d",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_washington_1952_air_0a33b4",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "to": "ufo_disclosure_movem_b83b6e",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_alien_claims_officia_10200d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_congress_uap_hearing_397803",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_defence_contractors_601e84",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_disclosure_movement_03b7a1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_ordinary_uap_explana_7f6769",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_pentagon_2017_shift_721c4f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_recovered_craft_clai_2845ca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_schumer_rounds_act_f91d98",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_tic_tac_encounter_7e7710",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_uap_public_trust_045e6b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_uap_records_collecti_736606",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_uap_security_framing_98e2bd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_uap_sensor_standards_756204",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_ufo_secrecy_disputes_4a8d82",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_ufo_to_uap_language_956425",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60_flir_clip_limits_459119",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60_gimbal_glare_rotatio_33a766",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60_gofast_parallax_d88ec2",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60_missing_sensor_data_15d491",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60_pentagon_release_mea_500be0",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60_pilot_audio_reaction_3e6cce",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "to": "ufo_disclosure_movem_b83b6e",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_alien_claims_officia_10200d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_congress_uap_hearing_397803",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_defence_contractors_601e84",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_disclosure_movement_03b7a1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_ordinary_uap_explana_7f6769",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_pentagon_2017_shift_721c4f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_recovered_craft_clai_2845ca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_schumer_rounds_act_f91d98",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_tic_tac_encounter_7e7710",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_public_trust_045e6b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_records_collecti_736606",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_security_framing_98e2bd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_sensor_standards_756204",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_ufo_secrecy_disputes_4a8d82",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_ufo_to_uap_language_956425",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0_ai_bad_uap_footage_cb9b1f",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0_baseline_sky_anomali_948717",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0_credible_witnesses_i_7bae6e",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0_open_uap_science_sec_09a645",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0_uap_dataset_requirem_98c149",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0_unexplained_not_proo_bf305a",
+        "type": "child"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "to": "ufo_disclosure_movem_b83b6e",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_aaro_reports_d20d47",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_alien_claims_officia_10200d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_congress_uap_hearing_397803",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_defence_contractors_601e84",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_disclosure_movement_03b7a1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_nasa_uap_science_0ec6d0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_navy_uap_videos_4e8b60",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_ordinary_uap_explana_7f6769",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_pentagon_2017_shift_721c4f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb",
+        "to": "ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18",
+        "type": "sibling"
+      }
+    ]
+  }
+}

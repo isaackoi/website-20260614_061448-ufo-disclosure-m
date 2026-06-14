@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-06-14T06:09:27",
+  "passed": true,
+  "baseline": {
+    "article_pages": 81,
+    "amazon_specific_pages": 50,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 50,
+    "ebay_fallback_pages": 0
+  },
+  "current": {
+    "article_pages": 241,
+    "amazon_specific_pages": 210,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 210,
+    "ebay_fallback_pages": 0
+  },
+  "regressions": []
+}
