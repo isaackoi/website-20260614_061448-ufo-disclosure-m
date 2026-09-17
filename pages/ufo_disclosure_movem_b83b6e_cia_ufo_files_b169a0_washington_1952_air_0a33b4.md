@@ -735,7 +735,7 @@ The Washington sightings remain significant because they reveal how governments 
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Title: Project [Blue Book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;)  
+   Title: Project [Blue Book]({{ 'blue-book/' | relative_url }})  
    Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 8. <a id="endnote-8"></a>
@@ -821,7 +821,7 @@ The Washington sightings remain significant because they reveal how governments 
    Source: wral.com  
    Title: a radar blip a flash of light how ufos exploded into public view  
    Link: <a href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...Aug 3, 2018 — [Researchers](&amp;#123;&amp;#123; &#x27;researchers/&#x27; | relative_url &amp;#125;&amp;#125;) say government officials have sought to publicly de...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...Aug 3, 2018 — [Researchers]({{ 'researchers/' | relative_url }}) say government officials have sought to publicly de...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  

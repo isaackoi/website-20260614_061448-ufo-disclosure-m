@@ -740,7 +740,7 @@ This explains why AARO remains central to the bipartisan politics of UAP transpa
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDoD Announces the Establishment of the All-domain...20 Jul 2022 — Today, USD(I&amp;S) Hon. Ronald S. Moultrie informed the...</p></details>
 
 2. <a id="endnote-2"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: ESTABLISHMENT OF THE ALL DOMAIN ANOMALY RESOLUTION OFFICE  
    Link: <a href="https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarEstablishment of the All-domain Anomaly Resolution Office20 Jul 2022 — section 1683 ofthe NDAA for FY 2022: • The All-do...</p></details>

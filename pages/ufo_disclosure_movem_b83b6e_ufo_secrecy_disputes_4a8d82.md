@@ -1099,7 +1099,7 @@ The most defensible position is that UFO secrecy should stop protecting informat
 
 24. <a id="endnote-24"></a>
    Source: archives.gov  
-   Title: Project [BLUE BOOK](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;)  
+   Title: Project [BLUE BOOK]({{ 'blue-book/' | relative_url }})  
    Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 25. <a id="endnote-25"></a>
@@ -1190,7 +1190,7 @@ The most defensible position is that UFO secrecy should stop protecting informat
 
 44. <a id="endnote-44"></a>
    Source: freedom.press  
-   Title: new [bipartisan](&#123;&#123; 'bipartisan/' | relative_url &#125;&#125;) senate bill seeks to reduce overclassification  
+   Title: new [bipartisan]({{ 'bipartisan/' | relative_url }}) senate bill seeks to reduce overclassification  
    Link: <a href="https://freedom.press/the-classifieds/new-bipartisan-senate-bill-seeks-to-reduce-overclassification/" target="_blank" rel="noopener noreferrer nofollow">https://freedom.press/the-classifieds/new-bipartisan-senate-bill-seeks-to-reduce-overclassification/</a>  
 
 45. <a id="endnote-45"></a>

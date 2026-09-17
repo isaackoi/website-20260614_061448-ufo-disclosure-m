@@ -710,7 +710,7 @@ The saucer image problem shows how easily an uncertain observation can become at
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Title: project [blue book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;) 50th anniversary  
+   Title: project [blue book]({{ 'blue-book/' | relative_url }}) 50th anniversary  
    Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...Dec 5, 2019 — During a subsequent interview with members...</p></details>
 

@@ -761,7 +761,7 @@ Until records, materials, or other verifiable evidence become publicly available
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
 
 3. <a id="endnote-3"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-d...</p></details>
@@ -792,7 +792,7 @@ Until records, materials, or other verifiable evidence become publicly available
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
    Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims](&amp;#123;&amp;#123; &#x27;grusch-claims/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;non-human&#x27; beings fou...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims]({{ 'grusch-claims/' | relative_url }}) &#x27;non-human&#x27; beings fou...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thedebrief.org  
@@ -857,7 +857,7 @@ Until records, materials, or other verifiable evidence become publicly available
 20. <a id="endnote-20"></a>
    Source: pbs.org  
    Link: <a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — While Wednesday&#x27;s congressional [hearings](&amp;#123;&amp;#123; &#x27;hearings/&#x27; | relative_url &amp;#125;&amp;#125;) brought attention to uni...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — While Wednesday&#x27;s congressional [hearings]({{ 'hearings/' | relative_url }}) brought attention to uni...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: space.com  
@@ -885,6 +885,6 @@ Until records, materials, or other verifiable evidence become publicly available
 
 25. <a id="endnote-25"></a>
    Source: integrityline.com  
-   Title: ufo [whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;) extraordinary congressional hearing  
+   Title: ufo [whistleblowers]({{ 'whistleblowers/' | relative_url }}) extraordinary congressional hearing  
    Link: <a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and his Extraordinary Congressional Hearing5 Mar 2024 — Whistleblower David Grusch has suffered retaliation after making ext...</p></details>

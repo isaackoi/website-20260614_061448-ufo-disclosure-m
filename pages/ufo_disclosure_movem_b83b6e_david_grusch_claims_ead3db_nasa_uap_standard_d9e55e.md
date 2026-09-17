@@ -731,7 +731,7 @@ This creates a verification challenge for the UFO disclosure movement. Supporter
 4. <a id="endnote-4"></a>
    Source: wired.com  
    Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma]({{ 'stigma/' | relative_url }}) associated with reporting...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  

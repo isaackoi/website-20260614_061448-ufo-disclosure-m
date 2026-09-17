@@ -760,7 +760,7 @@ For this reason, the pilot-stigma issue has become one of the most durable and l
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
-   Title: NASA's long-standing public [trust](&#123;&#123; 'trust/' | relative_url &#125;&#125;), which is essential for communicating findings  
+   Title: NASA's long-standing public [trust]({{ 'trust/' | relative_url }}), which is essential for communicating findings  
    Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/29...NASA could play an important role in destigmatizing the UAP reporting...</p></details>
 

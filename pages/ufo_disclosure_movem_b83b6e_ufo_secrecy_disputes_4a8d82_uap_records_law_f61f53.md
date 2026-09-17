@@ -890,7 +890,7 @@ That is why the UAP records law matters beyond the UFO issue itself. It offers a
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
    Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Disclosure Act](&amp;#123;&amp;#123; &#x27;disclosure-act/&#x27; | relative_url &amp;#125;&amp;#125;) had aimed to rebuild public trust by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Disclosure Act]({{ 'disclosure-act/' | relative_url }}) had aimed to rebuild public trust by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  

@@ -852,7 +852,7 @@ For the broader question of trust in UAP institutions, that distinction is impor
 16. <a id="endnote-16"></a>
    Source: wired.com  
    Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma]({{ 'stigma/' | relative_url }}) associated with reporting...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dodig.mil  
@@ -878,7 +878,7 @@ For the broader question of trust in UAP institutions, that distinction is impor
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon ups number of analyzed UFO reports, none a...19 Oct 2023 — Using a publicly available database, RAND Corporation researchers fo...</p></details>
 
 21. <a id="endnote-21"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
    Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Year 2024 Consolidated Annual Report on...Nov 14, 2024 — This report covers unidentified anomalous phenomena (UAP) reports from...</p></details>

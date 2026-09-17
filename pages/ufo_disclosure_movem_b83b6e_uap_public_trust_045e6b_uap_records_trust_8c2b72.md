@@ -872,7 +872,7 @@ Yet archives are not self-validating. Records build trust when they are accessib
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project [BLUE BOOK](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;) - Unidentified Flying ObjectsJun 25, 2024 — Project BLUE BOOK has been declassified and the records are available for e...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project [BLUE BOOK]({{ 'blue-book/' | relative_url }}) - Unidentified Flying ObjectsJun 25, 2024 — Project BLUE BOOK has been declassified and the records are available for e...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: archives.gov  

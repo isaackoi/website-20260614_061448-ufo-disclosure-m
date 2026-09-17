@@ -793,7 +793,7 @@ That distinction matters for public trust. Trust is not built only by releasing 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ted to UFOs and UAPs across all [media](&amp;#123;&amp;#123; &#x27;media/&#x27; | relative_url &amp;#125;&amp;#125;) types.Read more...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ted to UFOs and UAPs across all [media]({{ 'media/' | relative_url }}) types.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  

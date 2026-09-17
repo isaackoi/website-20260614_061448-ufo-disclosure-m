@@ -833,7 +833,7 @@ That tension explains why the USS Princeton remains central to discussions of th
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...Jul 26, 2023 — A retired Navy fighter pilot testified about his experience...</p></details>
 
 18. <a id="endnote-18"></a>
-   Source: vocal.[media](&#123;&#123; 'media/' | relative_url &#125;&#125;)  
+   Source: vocal.[media]({{ 'media/' | relative_url }})  
    Link: <a href="https://vocal.media/futurism/the-nimitz-ufo-incident-and-the-navy-sailors-who-witnessed-the-mysterious-tic-tac-craft" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/the-nimitz-ufo-incident-and-the-navy-sailors-who-witnessed-the-mysterious-tic-tac-craft</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nimitz UFO Incident and the Navy Sailors Who Witnessed...4 May 2026 — The Princeton possessed some of the Navy&#x27;s most advanced radar...</p></details>
    Published: May 2026  

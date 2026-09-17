@@ -1100,7 +1100,7 @@ The best version of UAP media coverage would keep three truths in view at the sa
    Source: youtube.com  
    Title: Nick Pope on the Nimitz Encounter & AATIP  
    Link: <a href="https://www.youtube.com/watch?v=tR7zBstOmTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tR7zBstOmTs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Navy pilot describes encounter with &#x27;[Tic Tac](&amp;#123;&amp;#123; &#x27;tic-tac/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; shaped unidentified flying object...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Navy pilot describes encounter with &#x27;[Tic Tac]({{ 'tic-tac/' | relative_url }})&#x27; shaped unidentified flying object...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  

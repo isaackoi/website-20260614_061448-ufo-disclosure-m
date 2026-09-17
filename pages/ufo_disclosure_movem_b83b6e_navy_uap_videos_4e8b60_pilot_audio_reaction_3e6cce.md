@@ -788,7 +788,7 @@ The most defensible conclusion is narrower but still significant. The pilot audi
 7. <a id="endnote-7"></a>
    Source: wired.com  
    Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma]({{ 'stigma/' | relative_url }}) associated with reporting...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: scientificamerican.com  
@@ -859,7 +859,7 @@ The most defensible conclusion is narrower but still significant. The pilot audi
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Link: <a href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zlrz84nEXtk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Navy pilot describes encounter with &#x27;[Tic Tac](&amp;#123;&amp;#123; &#x27;tic-tac/&#x27; | relative_url &amp;#125;&amp;#125;)...What is it like to encounter a UAP (unidentified aerial phenomenon)... Navy pilot...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Navy pilot describes encounter with &#x27;[Tic Tac]({{ 'tic-tac/' | relative_url }})...What is it like to encounter a UAP (unidentified aerial phenomenon)... Navy pilot...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: boingboing.net  
