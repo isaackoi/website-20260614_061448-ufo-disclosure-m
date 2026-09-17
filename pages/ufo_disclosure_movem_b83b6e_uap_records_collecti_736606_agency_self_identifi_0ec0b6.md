@@ -881,7 +881,7 @@ For that reason, debates over "missing UAP records" are often less about any spe
 23. <a id="endnote-23"></a>
    Source: theguardian.com  
    Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Disclosure Act](&amp;#123;&amp;#123; &#x27;disclosure-act/&#x27; | relative_url &amp;#125;&amp;#125;) had aimed to rebuild public [trust](&amp;#123;&amp;#123; &#x27;trust/&#x27; | relative_url &amp;#125;&amp;#125;) by uncovering government secrets about unidentified aerial phenomena...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Disclosure Act]({{ 'disclosure-act/' | relative_url }}) had aimed to rebuild public [trust]({{ 'trust/' | relative_url }}) by uncovering government secrets about unidentified aerial phenomena...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
@@ -922,4 +922,4 @@ For that reason, debates over "missing UAP records" are often less about any spe
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Link: <a href="https://www.youtube.com/watch?v=AD-IaPlI0hw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AD-IaPlI0hw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Fox and US Lawmakers Demand Government Release UFO Files and End UAP [Secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;) Programs | AC1N...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Fox and US Lawmakers Demand Government Release UFO Files and End UAP [Secrecy]({{ 'secrecy/' | relative_url }}) Programs | AC1N...</p></details>

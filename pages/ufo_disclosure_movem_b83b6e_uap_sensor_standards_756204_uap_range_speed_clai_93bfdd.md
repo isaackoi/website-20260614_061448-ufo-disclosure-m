@@ -906,7 +906,7 @@ For serious UAP investigation, the range problem is not a minor technical detail
    Source: 4orbs.com  
    Title: M H370 Evidence: Documents, Patents, FOIA  
    Link: <a href="https://4orbs.com/library/evidence/" target="_blank" rel="noopener noreferrer nofollow">https://4orbs.com/library/evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MH370 Evidence: Documents, Patents, FOIA... - 4ORBSUS [Navy videos](&amp;#123;&amp;#123; &#x27;navy-videos/&#x27; | relative_url &amp;#125;&amp;#125;) Go Fast Gimbal and [Tic Tac](&amp;#123;&amp;#123; &#x27;tic-tac/&#x27; | relative_url &amp;#125;&amp;#125;) authenticated by Pentagon. Off...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MH370 Evidence: Documents, Patents, FOIA... - 4ORBSUS [Navy videos]({{ 'navy-videos/' | relative_url }}) Go Fast Gimbal and [Tic Tac]({{ 'tic-tac/' | relative_url }}) authenticated by Pentagon. Off...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  

@@ -906,7 +906,7 @@ For the disclosure debate, the most important point is not that standing sensors
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
    Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe [NASA Study](&amp;#123;&amp;#123; &#x27;nasa-study/&#x27; | relative_url &amp;#125;&amp;#125;) will examine unclassified data on UAP in an attempt to separate...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe [NASA Study]({{ 'nasa-study/' | relative_url }}) will examine unclassified data on UAP in an attempt to separate...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: meritalk.com  

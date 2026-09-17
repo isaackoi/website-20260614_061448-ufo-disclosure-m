@@ -909,7 +909,7 @@ Within the disclosure movement, demands for greater transparency often focus on 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
    Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQAARO will announce when a reporting mechanism is available to the public. What are the leading [explanations](&amp;#123;&amp;#123; &#x27;explanations/&#x27; | relative_url &amp;#125;&amp;#125;) to account for UAP re...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQAARO will announce when a reporting mechanism is available to the public. What are the leading [explanations]({{ 'explanations/' | relative_url }}) to account for UAP re...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ufofileswatch.com  

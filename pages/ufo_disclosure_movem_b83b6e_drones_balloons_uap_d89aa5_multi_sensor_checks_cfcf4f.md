@@ -876,7 +876,7 @@ When those data are available, many apparently impossible objects become identif
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sleuths want fewer secrets in Trump-era investigations4 Jun 2025 — More than 1800 cases have been reviewed by the Pentagon so far, wi...</p></details>
 
 15. <a id="endnote-15"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases... synthetic aperture r...</p></details>
@@ -907,7 +907,7 @@ When those data are available, many apparently impossible objects become identif
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsAARO: The video you boat people got is a balloon! Radar and multi [sensor data](&amp;#123;&amp;#123; &#x27;sensor-data/&#x27; | relative_url &amp;#125;&amp;#125;)? No idea what y...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsAARO: The video you boat people got is a balloon! Radar and multi [sensor data]({{ 'sensor-data/' | relative_url }})? No idea what y...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  

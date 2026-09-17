@@ -768,7 +768,7 @@ The key distinction is therefore conceptual. UFO described an unidentified flyin
    Source: wired.com  
    Title: NASA Didn't Find Aliens-but if You See Any UFOs, Holler  
    Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma]({{ 'stigma/' | relative_url }}) associated with reporting...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
@@ -833,7 +833,7 @@ The key distinction is therefore conceptual. UFO described an unidentified flyin
 
 22. <a id="endnote-22"></a>
    Source: thedebrief.org  
-   Title: key takeaways you need to know from the dods recent aaro [media](&#123;&#123; 'media/' | relative_url &#125;&#125;) roundtable on uap  
+   Title: key takeaways you need to know from the dods recent aaro [media]({{ 'media/' | relative_url }}) roundtable on uap  
    Link: <a href="https://thedebrief.org/key-takeaways-you-need-to-know-from-the-dods-recent-aaro-media-roundtable-on-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/key-takeaways-you-need-to-know-from-the-dods-recent-aaro-media-roundtable-on-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO, it stated that its mission to resolve UAP incidents “includes anomalous, unidentified space, airborne, submerged and transmedium ob...</p></details>
 

@@ -867,7 +867,7 @@ That combination makes Starlink sightings especially important within aviation r
 24. <a id="endnote-24"></a>
    Source: reddit.com  
    Link: <a href="https://www.reddit.com/r/space/comments/15n15b1/its_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/15n15b1/its_starlink/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s starlink.: r/spaceIt always generates UFO reports on Reddit and other social [media](&amp;#123;&amp;#123; &#x27;media/&#x27; | relative_url &amp;#125;&amp;#125;) forums when it happens.... r/UFOs - Are these s...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s starlink.: r/spaceIt always generates UFO reports on Reddit and other social [media]({{ 'media/' | relative_url }}) forums when it happens.... r/UFOs - Are these s...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ralphbuncheinstitute.org  

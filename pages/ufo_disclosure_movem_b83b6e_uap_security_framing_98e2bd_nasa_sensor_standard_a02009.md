@@ -784,7 +784,7 @@ For advocates of greater transparency, this framework provides a pathway toward 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma]({{ 'stigma/' | relative_url }}) associated with reporting...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: en.wikisource.org  
@@ -848,7 +848,7 @@ For advocates of greater transparency, this framework provides a pathway toward 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting [Media](&amp;#123;&amp;#123; &#x27;media/&#x27; | relative_url &amp;#125;&amp;#125;)...NASA holds a virtual post-meeting media teleconference following the May 31, 2023 publi...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting [Media]({{ 'media/' | relative_url }})...NASA holds a virtual post-meeting media teleconference following the May 31, 2023 publi...</p></details>
    Published: May 31, 2023  
 
 20. <a id="endnote-20"></a>

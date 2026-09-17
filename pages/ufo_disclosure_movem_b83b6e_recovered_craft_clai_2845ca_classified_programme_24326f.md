@@ -851,7 +851,7 @@ For the [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }
 
 6. <a id="endnote-6"></a>
    Source: war.gov  
-   Title: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;) engagement with acting aaro director tim phillips on the historical recor  
+   Title: [media]({{ 'media/' | relative_url }}) engagement with acting aaro director tim phillips on the historical recor  
    Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMedia Engagement With Acting AARO Director Tim Phillips...6 Mar 2024 — AARO has found no verifiable evidence that any U...</p></details>
 
@@ -967,7 +967,7 @@ For the [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }
 
 26. <a id="endnote-26"></a>
    Source: theaviationgeekclub.com  
-   Title: project [blue book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;) story ufo sightings used cover high altitude u 2 flights  
+   Title: project [blue book]({{ 'blue-book/' | relative_url }}) story ufo sightings used cover high altitude u 2 flights  
    Link: <a href="https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK AND THE STORY OF HOW UFO...In the mid-1950s USAF and CIA used UFO sightings to cover very high altitude flights of the...</p></details>
 

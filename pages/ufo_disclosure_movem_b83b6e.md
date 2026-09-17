@@ -1159,7 +1159,7 @@ That leaves the movement in a tense but important position. Its most credible fu
    Source: youtube.com  
    Title: LIVE: NASA holds first public meeting on UFOs  
    Link: <a href="https://www.youtube.com/watch?v=_QU2Ed8ixaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_QU2Ed8ixaU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hearing Live | &#x27;Alien Bodies Provoking...&#x27;: [Whistleblowers](&amp;#123;&amp;#123; &#x27;whistleblowers/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; SHOCK At Congress Hearing | USA...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hearing Live | &#x27;Alien Bodies Provoking...&#x27;: [Whistleblowers]({{ 'whistleblowers/' | relative_url }})&#x27; SHOCK At Congress Hearing | USA...</p></details>
 
 54. <a id="endnote-54"></a>
    Source: nsa.gov  

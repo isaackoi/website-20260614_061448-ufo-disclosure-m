@@ -784,7 +784,7 @@ The most durable lesson from recent UAP investigations is therefore a cautious o
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
-   Title: dr jon kosloski director aaro [media](&#123;&#123; 'media/' | relative_url &#125;&#125;) roundtable on the fy24 consolidated annual  
+   Title: dr jon kosloski director aaro [media]({{ 'media/' | relative_url }}) roundtable on the fy24 consolidated annual  
    Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
 

@@ -717,7 +717,7 @@ Viewed through the lens of Ryan Graves’s safety-focused argument, this is perh
 ## Endnotes
 
 1. <a id="endnote-1"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
    Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO is investigating if other unresolved cases may be a...</p></details>
@@ -759,7 +759,7 @@ Viewed through the lens of Ryan Graves’s safety-focused argument, this is perh
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryHowever, due to the absence of corroborating telemetry or multi-modal [sensor data](&amp;#123;&amp;#123; &#x27;sensor-data/&#x27; | relative_url &amp;#125;&amp;#125;), AARO cannot determine whether the obser...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryHowever, due to the absence of corroborating telemetry or multi-modal [sensor data]({{ 'sensor-data/' | relative_url }}), AARO cannot determine whether the obser...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: dvidshub.net  

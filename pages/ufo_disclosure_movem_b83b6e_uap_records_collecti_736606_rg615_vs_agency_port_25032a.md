@@ -810,7 +810,7 @@ For that reason, the strongest evidence trail is often where the two systems ove
    Source: youtube.com  
    Title: The Pentagon Released 162 UAP Files. They Explain Nothing  
    Link: <a href="https://www.youtube.com/watch?v=I9UrbncNJes" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I9UrbncNJes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives UAP Records Collection Project [Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492) New Parad...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives UAP Records Collection Project [Blue Book]({{ 'blue-book/' | relative_url }}), 1950–1966 - The National Archives Catalog UAP Records (341-pbb-492) New Parad...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nprillinois.org  

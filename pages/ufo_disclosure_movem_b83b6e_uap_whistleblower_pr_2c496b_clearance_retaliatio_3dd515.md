@@ -762,7 +762,7 @@ For that reason, security-clearance retaliation is often viewed not as a periphe
 
 3. <a id="endnote-3"></a>
    Source: katzbanks.com  
-   Title: Katz Banks Kumin LLPIntelligence Community [Whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;) Receive Protection  
+   Title: Katz Banks Kumin LLPIntelligence Community [Whistleblowers]({{ 'whistleblowers/' | relative_url }}) Receive Protection  
    Link: <a href="https://katzbanks.com/whistleblower-law-blog/intelligence-community-whistleblowers-receive-protection-from-presidential-directive/" target="_blank" rel="noopener noreferrer nofollow">https://katzbanks.com/whistleblower-law-blog/intelligence-community-whistleblowers-receive-protection-from-presidential-directive/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 12, 2012 — 12 Oct 2012 — As a result, reducing or revoking an employee&#x27;s security clearance has served as a common and highly eff...</p></details>
    Published: October 12, 2012  

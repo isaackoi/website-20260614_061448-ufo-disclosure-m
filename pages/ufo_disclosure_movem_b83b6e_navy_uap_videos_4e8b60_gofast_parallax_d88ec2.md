@@ -840,7 +840,7 @@ What makes the case noteworthy is not that everyone agrees on the object's ident
    Source: theguardian.com  
    Title: The Guardian I study UFOs – and I don't believe the alien hype  
    Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why11 Jun 2021 — “Go Fast” was not actually going fast, and was consistent with a balloon drifting in the wind. “[Tic Tac](&amp;#123;&amp;#123; &#x27;tic-tac/&#x27; | relative_url &amp;#125;&amp;#125;)” did not...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why11 Jun 2021 — “Go Fast” was not actually going fast, and was consistent with a balloon drifting in the wind. “[Tic Tac]({{ 'tic-tac/' | relative_url }})” did not...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
