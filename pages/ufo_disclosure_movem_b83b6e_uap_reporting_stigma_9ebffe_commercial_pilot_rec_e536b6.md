@@ -787,7 +787,7 @@ NASA's UAP study argued that [stigma]({{ 'stigma/' | relative_url }}) likely sup
 
 8. <a id="endnote-8"></a>
    Source: en.wikisource.org  
-   Title: NASA's long-standing public [trust](&#123;&#123; 'trust/' | relative_url &#125;&#125;), which is essential for communicating findings  
+   Title: NASA's long-standing public [trust]({{ 'trust/' | relative_url }}), which is essential for communicating findings  
    Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/29...NASA could play an important role in destigmatizing the UAP reporting...</p></details>
 
@@ -861,7 +861,7 @@ NASA's UAP study argued that [stigma]({{ 'stigma/' | relative_url }}) likely sup
 21. <a id="endnote-21"></a>
    Source: safeaerospace.org  
    Link: <a href="https://www.safeaerospace.org/news/uaps-and-the-normalization-of-deviance-a-lingering-threat-to-aviation-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/uaps-and-the-normalization-of-deviance-a-lingering-threat-to-aviation-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs and the Normalization of Deviance: A Lingering Threat to...[Bipartisan](&amp;#123;&amp;#123; &#x27;bipartisan/&#x27; | relative_url &amp;#125;&amp;#125;) legislation has been introduced to create a national reportin...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs and the Normalization of Deviance: A Lingering Threat to...[Bipartisan]({{ 'bipartisan/' | relative_url }}) legislation has been introduced to create a national reportin...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: majorcitieschiefs.com  

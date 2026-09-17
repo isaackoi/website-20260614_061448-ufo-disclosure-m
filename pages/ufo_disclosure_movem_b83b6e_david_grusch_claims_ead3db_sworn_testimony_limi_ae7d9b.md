@@ -821,7 +821,7 @@ The significance of Grusch's testimony therefore lies less in proving the existe
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
    Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO [hearings](&amp;#123;&amp;#123; &#x27;hearings/&#x27; | relative_url &amp;#125;&amp;#125;): whistleblower David Grusch says &#x27;non-...26 Jul 2023 — David Grusch says he knows of “multiple colleagues” who were physica...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO [hearings]({{ 'hearings/' | relative_url }}): whistleblower David Grusch says &#x27;non-...26 Jul 2023 — David Grusch says he knows of “multiple colleagues” who were physica...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
@@ -838,7 +838,7 @@ The significance of Grusch's testimony therefore lies less in proving the existe
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
    Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims](&amp;#123;&amp;#123; &#x27;grusch-claims/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;non-human&#x27; beings found as issue...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims]({{ 'grusch-claims/' | relative_url }}) &#x27;non-human&#x27; beings found as issue...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  

@@ -870,7 +870,7 @@ Regardless of where one stands in that debate, the policy creates an important d
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Link: <a href="https://www.reddit.com/r/UFOs/comments/1g4dxdc/your_opinion_do_you_believe_that_we_will_start/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g4dxdc/your_opinion_do_you_believe_that_we_will_start/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uments, to September 30th, 2025, on par with the UAP [Disclosure Act](&amp;#123;&amp;#123; &#x27;disclosure-act/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>uments, to September 30th, 2025, on par with the UAP [Disclosure Act]({{ 'disclosure-act/' | relative_url }})...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  

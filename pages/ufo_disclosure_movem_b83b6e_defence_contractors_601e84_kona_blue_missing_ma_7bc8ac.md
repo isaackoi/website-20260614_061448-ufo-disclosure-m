@@ -779,7 +779,7 @@ Within the wider debate over defence contractors and hidden programmes, KONA BLU
    <details class="endnote-snippet"><summary>Source snippet</summary><p>History and Origin of KONA BLUESpecial Access Program (PSAP) that had been proposed to DHS leadership but was never approved or forma...</p></details>
 
 3. <a id="endnote-3"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program...</p></details>

@@ -999,7 +999,7 @@ The most honest assessment is therefore restrained. FLIR, GIMBAL and GOFAST made
    Link: <a href="https://comptroller.defense.gov/portals/45/documents/cfs/fy2013/04_department_of_the_navy/fiscal_year_2013_department_of_the_navy_financial_statements_and_notes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/portals/45/documents/cfs/fy2013/04_department_of_the_navy/fiscal_year_2013_department_of_the_navy_financial_statements_and_notes.pdf</a>  
 
 15. <a id="endnote-15"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
@@ -1151,7 +1151,7 @@ The most honest assessment is therefore restrained. FLIR, GIMBAL and GOFAST made
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
-   Title: The "[Tic Tac](&#123;&#123; 'tic-tac/' | relative_url &#125;&#125;)" UFO: Can This Sighting Be Explained? | NOVA | PBS  
+   Title: The "[Tic Tac]({{ 'tic-tac/' | relative_url }})" UFO: Can This Sighting Be Explained? | NOVA | PBS  
    Link: <a href="https://www.youtube.com/watch?v=rQs2NL7hcDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rQs2NL7hcDA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 New Pentagon UFO files: 6 videos worth watching...</p></details>
 
