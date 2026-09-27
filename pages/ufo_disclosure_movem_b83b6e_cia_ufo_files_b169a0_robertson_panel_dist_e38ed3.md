@@ -848,7 +848,7 @@ The enduring legacy of the Robertson Panel is therefore not proof of a UFO cover
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Title: Project [Blue Book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;): HYNEK BETRAYED DURING ROBERTSON PANEL (Season 2) | History  
+   Title: Project [Blue Book]({{ 'blue-book/' | relative_url }}): HYNEK BETRAYED DURING ROBERTSON PANEL (Season 2) | History  
    Link: <a href="https://www.youtube.com/watch?v=G-4oolp_7qI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G-4oolp_7qI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The Government&#x27;s Failed War on Flying Saucers | Curious History...</p></details>
 

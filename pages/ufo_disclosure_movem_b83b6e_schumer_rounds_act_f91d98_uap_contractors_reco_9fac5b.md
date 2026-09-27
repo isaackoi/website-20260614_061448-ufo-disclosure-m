@@ -918,7 +918,7 @@ The contractor issue highlights the difference between a records law and a broad
 34. <a id="endnote-34"></a>
    Source: theguardian.com  
    Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Act had aimed to rebuild public [trust](&amp;#123;&amp;#123; &#x27;trust/&#x27; | relative_url &amp;#125;&amp;#125;) by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Act had aimed to rebuild public [trust]({{ 'trust/' | relative_url }}) by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  

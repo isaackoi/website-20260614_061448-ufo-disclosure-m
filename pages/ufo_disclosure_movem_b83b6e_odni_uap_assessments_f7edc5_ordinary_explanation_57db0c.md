@@ -763,7 +763,7 @@ AARO has repeatedly stated that large numbers of cases remain active because the
 5. <a id="endnote-5"></a>
    Source: dvidshub.net  
    Link: <a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unresolved UAP Report: Middle East 2024However, due to the absence of corroborating telemetry or multi-modal [sensor data](&amp;#123;&amp;#123; &#x27;sensor-data/&#x27; | relative_url &amp;#125;&amp;#125;), AARO cannot det...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unresolved UAP Report: Middle East 2024However, due to the absence of corroborating telemetry or multi-modal [sensor data]({{ 'sensor-data/' | relative_url }}), AARO cannot det...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
@@ -788,7 +788,7 @@ AARO has repeatedly stated that large numbers of cases remain active because the
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
-   Title: dr jon kosloski director aaro [media](&#123;&#123; 'media/' | relative_url &#125;&#125;) roundtable on the fy24 consolidated annual  
+   Title: dr jon kosloski director aaro [media]({{ 'media/' | relative_url }}) roundtable on the fy24 consolidated annual  
    Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has taken meaningful steps to improve data collection and ret...</p></details>
 
@@ -863,7 +863,7 @@ AARO has repeatedly stated that large numbers of cases remain active because the
 23. <a id="endnote-23"></a>
    Source: reddit.com  
    Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR ([Tic Tac](&amp;#123;&amp;#123; &#x27;tic-tac/&#x27; | relative_url &amp;#125;&amp;#125;) UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR ([Tic Tac]({{ 'tic-tac/' | relative_url }}) UAP), Gimbal, and GoFast videos are “unreso...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: waru.edu  

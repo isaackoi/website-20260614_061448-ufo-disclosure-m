@@ -810,7 +810,7 @@ AARO's recent reporting shows that birds are among the categories repeatedly use
 10. <a id="endnote-10"></a>
    Source: wildlife.org  
    Link: <a href="https://wildlife.org/wild-cam-thermal-cameras-spot-roosting-birds-in-the-dark/" target="_blank" rel="noopener noreferrer nofollow">https://wildlife.org/wild-cam-thermal-cameras-spot-roosting-birds-in-the-dark/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wild Cam: Thermal cameras spot roosting birds in the dark14 Jun 2019 — Thermal cameras are helping [researchers](&amp;#123;&amp;#123; &#x27;researchers/&#x27; | relative_url &amp;#125;&amp;#125;) focus on bird populations...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wild Cam: Thermal cameras spot roosting birds in the dark14 Jun 2019 — Thermal cameras are helping [researchers]({{ 'researchers/' | relative_url }}) focus on bird populations...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nhm.org  
@@ -825,7 +825,7 @@ AARO's recent reporting shows that birds are among the categories repeatedly use
     <details class="endnote-snippet"><summary>Source snippet</summary><p>British Ornithologists&#x27; UnionInfrared uncovers secrets of migration19 Dec 2016 — A thermal-imaging camera was used to study nocturnal bir...</p></details>
 
 13. <a id="endnote-13"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 1Mar 8, 2024 — AARO assesses that this common and understandable occurrence—the misidentification of new...</p></details>

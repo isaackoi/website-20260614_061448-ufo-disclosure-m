@@ -4,7 +4,7 @@ title_full: Security Frame Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufo-disclosure-movem-b83b6e-uap/
+permalink: /ufo-disclosure-movem-b83b6e-uap-security-frame/
 description: Focused pages that expand on Security Frame.
 date: '2026-06-13'
 layout: default

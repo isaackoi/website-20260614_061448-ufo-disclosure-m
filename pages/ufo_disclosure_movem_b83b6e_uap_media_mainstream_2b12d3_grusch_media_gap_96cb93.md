@@ -769,7 +769,7 @@ The Grusch case became a test of whether the media could maintain a clear bounda
 
 1. <a id="endnote-1"></a>
    Source: space.com  
-   Title: [whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;) to come forward with any evidence they might have.Read more  
+   Title: [whistleblowers]({{ 'whistleblowers/' | relative_url }}) to come forward with any evidence they might have.Read more  
    Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — AARO&#x27;s report goes on to state that, despite widely publ...</p></details>
 
@@ -803,7 +803,7 @@ The Grusch case became a test of whether the media could maintain a clear bounda
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
    Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims](&amp;#123;&amp;#123; &#x27;grusch-claims/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;non-human&#x27; beings fou...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims]({{ 'grusch-claims/' | relative_url }}) &#x27;non-human&#x27; beings fou...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  

@@ -1084,7 +1084,7 @@ The most responsible position is therefore neither blanket belief nor blanket di
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Title: Congress preps for new UFO [hearings](&#123;&#123; 'hearings/' | relative_url &#125;&#125;) after election | News Nation Now  
+   Title: Congress preps for new UFO [hearings]({{ 'hearings/' | relative_url }}) after election | News Nation Now  
    Link: <a href="https://www.youtube.com/watch?v=BdUDLGfZFyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BdUDLGfZFyY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James Fox and US Lawmakers Demand Government Release UFO Files and End UAP Secrecy Programs | AC1N...</p></details>
 

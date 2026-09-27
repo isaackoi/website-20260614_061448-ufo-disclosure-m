@@ -753,7 +753,7 @@ However, the same pattern also supports a more cautious interpretation. If train
    Source: space.com  
    Title: pentagon 2022 ufo uap report  
    Link: <a href="https://www.space.com/pentagon-2022-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-2022-ufo-uap-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases its long-awaited 2022 UFO report12 Jan 2023 — The [ODNI](&amp;#123;&amp;#123; &#x27;odni/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s report shows that the U.S. government appears to be takin...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases its long-awaited 2022 UFO report12 Jan 2023 — The [ODNI]({{ 'odni/' | relative_url }})&#x27;s report shows that the U.S. government appears to be takin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: secnav.navy.mil  
@@ -771,7 +771,7 @@ However, the same pattern also supports a more cautious interpretation. If train
    Source: iglobenews.org  
    Title: unidentified aerial phenomena us odni report on uaps  
    Link: <a href="https://www.iglobenews.org/unidentified-aerial-phenomena-us-odni-report-on-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://www.iglobenews.org/unidentified-aerial-phenomena-us-odni-report-on-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena: US ODNI Report on UAPDec 13, 2021 — The ODNI report identifies a strong sociocultural [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) aro...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena: US ODNI Report on UAPDec 13, 2021 — The ODNI report identifies a strong sociocultural [stigma]({{ 'stigma/' | relative_url }}) aro...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
@@ -798,7 +798,7 @@ However, the same pattern also supports a more cautious interpretation. If train
 
 13. <a id="endnote-13"></a>
    Source: war.gov  
-   Title: dr jon kosloski director aaro [media](&#123;&#123; 'media/' | relative_url &#125;&#125;) roundtable on the fy24 consolidated annual  
+   Title: dr jon kosloski director aaro [media]({{ 'media/' | relative_url }}) roundtable on the fy24 consolidated annual  
    Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — UAP are real. Advanced technologies not made by our government or...</p></details>
 

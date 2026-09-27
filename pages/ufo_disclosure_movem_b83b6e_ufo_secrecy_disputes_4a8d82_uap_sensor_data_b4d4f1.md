@@ -883,7 +883,7 @@ The result is a continuing cycle: a video enters the public domain, observers de
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Second Batch of UFO Files Released by the...The Pentagon says it can&#x27;t identify the flying objects in these dozens of videos, but...</p></details>
 
 20. <a id="endnote-20"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — AARO reviewed all official USG investigatory efforts since 1945, researched classified and...</p></details>

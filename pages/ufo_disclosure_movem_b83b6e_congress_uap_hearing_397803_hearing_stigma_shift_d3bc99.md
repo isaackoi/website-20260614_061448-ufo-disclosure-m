@@ -742,7 +742,7 @@ What is less disputed is the underlying mechanism. When Congress, NASA, and defe
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
-   Title: dr jon kosloski director aaro [media](&#123;&#123; 'media/' | relative_url &#125;&#125;) roundtable on the fy24 consolidated annual  
+   Title: dr jon kosloski director aaro [media]({{ 'media/' | relative_url }}) roundtable on the fy24 consolidated annual  
    Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...Nov 14, 2024 — AARO has taken meaningful steps to improve d...</p></details>
 
@@ -837,7 +837,7 @@ What is less disputed is the underlying mechanism. When Congress, NASA, and defe
 19. <a id="endnote-19"></a>
    Source: safeaerospace.org  
    Link: <a href="https://www.safeaerospace.org/news/uaps-and-the-normalization-of-deviance-a-lingering-threat-to-aviation-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/uaps-and-the-normalization-of-deviance-a-lingering-threat-to-aviation-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs and the Normalization of Deviance: A Lingering Threat to...[Bipartisan](&amp;#123;&amp;#123; &#x27;bipartisan/&#x27; | relative_url &amp;#125;&amp;#125;) legislation has been introduced to create a national reportin...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs and the Normalization of Deviance: A Lingering Threat to...[Bipartisan]({{ 'bipartisan/' | relative_url }}) legislation has been introduced to create a national reportin...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  

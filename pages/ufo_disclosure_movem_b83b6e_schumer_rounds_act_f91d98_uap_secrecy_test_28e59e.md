@@ -761,7 +761,7 @@ From the perspective of the UFO disclosure movement, the key objective was not i
 
 6. <a id="endnote-6"></a>
    Source: defensescoop.com  
-   Title: military [whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;) share new evidence alleged uap ufo hearing  
+   Title: military [whistleblowers]({{ 'whistleblowers/' | relative_url }}) share new evidence alleged uap ufo hearing  
    Link: <a href="https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP reports and associated data. “Sailors need to know that reporting UAP encounters will not harm their careers,” Wiggins said. During t...</p></details>
 

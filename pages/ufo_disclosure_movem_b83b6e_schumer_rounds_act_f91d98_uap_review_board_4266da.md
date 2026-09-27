@@ -839,7 +839,7 @@ This altered the balance of the proposal significantly. The government gained a 
    Source: lesswrong.com  
    Title: the uap disclosure act of 2023 and its implications  
    Link: <a href="https://www.lesswrong.com/posts/8JXv9ADBGuDzFL4EZ/the-uap-disclosure-act-of-2023-and-its-implications" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/8JXv9ADBGuDzFL4EZ/the-uap-disclosure-act-of-2023-and-its-implications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jul 2023 — TL;DR: A recently proposed (7/13/2023) [bipartisan](&amp;#123;&amp;#123; &#x27;bipartisan/&#x27; | relative_url &amp;#125;&amp;#125;) amendment to the NDAA for 2024, with senate majority leader Chuck Schumer...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jul 2023 — TL;DR: A recently proposed (7/13/2023) [bipartisan]({{ 'bipartisan/' | relative_url }}) amendment to the NDAA for 2024, with senate majority leader Chuck Schumer...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  

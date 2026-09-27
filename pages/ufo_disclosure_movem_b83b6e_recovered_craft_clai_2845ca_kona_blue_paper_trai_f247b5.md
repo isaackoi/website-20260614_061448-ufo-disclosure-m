@@ -760,7 +760,7 @@ As a result, KONA BLUE occupies a distinctive place in the UFO disclosure debate
    <details class="endnote-snippet"><summary>Source snippet</summary><p>History and Origin of KONA BLUEAARO traced the origin of the proposal for KONA BLUE to the Advanced Aerospace. Weapon System Applicat...</p></details>
 
 2. <a id="endnote-2"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program...</p></details>
@@ -825,7 +825,7 @@ As a result, KONA BLUE occupies a distinctive place in the UFO disclosure debate
    Source: nz.news.yahoo.com  
    Title: did us reverse engineer alien 230411929  
    Link: <a href="https://nz.news.yahoo.com/did-us-reverse-engineer-alien-230411929.html" target="_blank" rel="noopener noreferrer nofollow">https://nz.news.yahoo.com/did-us-reverse-engineer-alien-230411929.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And other...8 Mar 2024 — The AARO reviewed more than 7,000 files from Project [Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;) and found that officials never found evidence of...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>And other...8 Mar 2024 — The AARO reviewed more than 7,000 files from Project [Blue Book]({{ 'blue-book/' | relative_url }}) and found that officials never found evidence of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  

@@ -965,7 +965,7 @@ The practical burden of proof is therefore not a slogan about “extraordinary c
 
 6. <a id="endnote-6"></a>
    Source: war.gov  
-   Title: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;) engagement with acting aaro director tim phillips on the historical recor  
+   Title: [media]({{ 'media/' | relative_url }}) engagement with acting aaro director tim phillips on the historical recor  
    Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
 
 7. <a id="endnote-7"></a>

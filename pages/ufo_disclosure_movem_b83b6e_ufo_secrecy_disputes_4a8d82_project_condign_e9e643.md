@@ -886,6 +886,6 @@ In that sense, Project Condign remains one of the clearest examples of the centr
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE BRITISH MOD STUDY: PROJECT CONDIGNby D CLARKE · Cited by 1 — In effect it marked the end of the Defence Intelligence Staff&#x27;s involvem...</p></details>
 
 27. <a id="endnote-27"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). nationalarchives.gov.uk  
+   Source: [media]({{ 'media/' | relative_url }}). nationalarchives.gov.uk  
    Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives – UFO files (MoD)No information is available for this page...</p></details>

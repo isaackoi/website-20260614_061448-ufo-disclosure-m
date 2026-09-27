@@ -743,7 +743,7 @@ This distinction helps explain why whistleblower protections occupy such a centr
 
 5. <a id="endnote-5"></a>
    Source: burchett.house.gov  
-   Title: rep burchett introduces bill protecting uap [whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;)  
+   Title: rep burchett introduces bill protecting uap [whistleblowers]({{ 'whistleblowers/' | relative_url }})  
    Link: <a href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burchett introduces bill protecting UAP whistleblowersNov 12, 2024 — WASHINGTON, D.C., (Nov. 12, 2024) – Today, U.S. Congressman Tim Burc...</p></details>
 
@@ -771,7 +771,7 @@ This distinction helps explain why whistleblower protections occupy such a centr
    Source: dni.gov  
    Title: 3733 2023 consolidated annual report on unidentified anomalous phenomena  
    Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The Office of the Director of National Intelligence ([ODNI](&amp;#123;&amp;#123; &#x27;odni/&#x27; | relative_url &amp;#125;&amp;#125;)) and the Depar...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The Office of the Director of National Intelligence ([ODNI]({{ 'odni/' | relative_url }})) and the Depar...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nyujlpp.org  

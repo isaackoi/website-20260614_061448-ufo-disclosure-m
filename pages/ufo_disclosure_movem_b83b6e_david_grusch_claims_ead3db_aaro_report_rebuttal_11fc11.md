@@ -718,7 +718,7 @@ As a result, the report occupies a unique place in the [UFO disclosure movement]
 ## Endnotes
 
 1. <a id="endnote-1"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — AARO assesses that the inaccurate claim that the USG is reverse-engi...</p></details>
@@ -813,7 +813,7 @@ As a result, the report occupies a unique place in the [UFO disclosure movement]
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
    Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims](&amp;#123;&amp;#123; &#x27;grusch-claims/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;non-human&#x27; beings found as issue...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims]({{ 'grusch-claims/' | relative_url }}) &#x27;non-human&#x27; beings found as issue...</p></details>
 
 ### Additional References
 
@@ -830,7 +830,7 @@ As a result, the report occupies a unique place in the [UFO disclosure movement]
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
    Link: <a href="https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) [Tic Tac](&amp;#123;&amp;#123; &#x27;tic-tac/&#x27; | relative_url &amp;#125;&amp;#125;) and Beyond: UAP Sightings, Reverse-...24 Mar 2026 — Tic Tac and Beyond: UAP Sightings, Reverse-Engineered Alien Tech, and...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) [Tic Tac]({{ 'tic-tac/' | relative_url }}) and Beyond: UAP Sightings, Reverse-...24 Mar 2026 — Tic Tac and Beyond: UAP Sightings, Reverse-Engineered Alien Tech, and...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: space.com  
@@ -868,6 +868,6 @@ As a result, the report occupies a unique place in the [UFO disclosure movement]
 
 27. <a id="endnote-27"></a>
    Source: integrityline.com  
-   Title: ufo [whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;) extraordinary congressional hearing  
+   Title: ufo [whistleblowers]({{ 'whistleblowers/' | relative_url }}) extraordinary congressional hearing  
    Link: <a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and his Extraordinary Congressional Hearing5 Mar 2024 — Whistleblower David Grusch has suffered retaliation after making ext...</p></details>

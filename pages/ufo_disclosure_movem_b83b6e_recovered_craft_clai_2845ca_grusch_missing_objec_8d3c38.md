@@ -849,7 +849,7 @@ The reason is straightforward. The debate ultimately concerns a claimed object. 
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
    Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims](&amp;#123;&amp;#123; &#x27;grusch-claims/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;non-human&#x27; beings found as issue...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims]({{ 'grusch-claims/' | relative_url }}) &#x27;non-human&#x27; beings found as issue...</p></details>
 
 ### Additional References
 

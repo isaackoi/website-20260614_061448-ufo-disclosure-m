@@ -864,7 +864,7 @@ Whether that system succeeds depends less on institutional charts than on report
 25. <a id="endnote-25"></a>
    Source: safeaerospace.org  
    Link: <a href="https://www.safeaerospace.org/news/uaps-and-the-normalization-of-deviance-a-lingering-threat-to-aviation-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/uaps-and-the-normalization-of-deviance-a-lingering-threat-to-aviation-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs and the Normalization of Deviance: A Lingering Threat to...[Bipartisan](&amp;#123;&amp;#123; &#x27;bipartisan/&#x27; | relative_url &amp;#125;&amp;#125;) legislation has been introduced to create a national reportin...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs and the Normalization of Deviance: A Lingering Threat to...[Bipartisan]({{ 'bipartisan/' | relative_url }}) legislation has been introduced to create a national reportin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  

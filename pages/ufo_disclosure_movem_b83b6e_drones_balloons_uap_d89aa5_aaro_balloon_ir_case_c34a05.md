@@ -804,7 +804,7 @@ The Europe 2022 balloon cases therefore serve as a methodological lesson rather 
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 1Mar 8, 2024 — SECTION IV: Accounts of USG UAP Investigatory Programs Since 1945. Summary. AARO reviewed...</p></details>

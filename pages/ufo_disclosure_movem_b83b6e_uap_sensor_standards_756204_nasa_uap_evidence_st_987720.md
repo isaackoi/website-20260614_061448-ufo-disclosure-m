@@ -788,7 +788,7 @@ The most lasting contribution of NASA’s UAP study may therefore be procedural 
 14. <a id="endnote-14"></a>
    Source: wired.com  
    Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma]({{ 'stigma/' | relative_url }}) associated with reporting...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: fastcompany.com  
@@ -816,7 +816,7 @@ The most lasting contribution of NASA’s UAP study may therefore be procedural 
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
    Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe [NASA Study](&amp;#123;&amp;#123; &#x27;nasa-study/&#x27; | relative_url &amp;#125;&amp;#125;) will examine unclassified data on UAP in an attempt to separate...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe [NASA Study]({{ 'nasa-study/' | relative_url }}) will examine unclassified data on UAP in an attempt to separate...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nevadacurrent.com  

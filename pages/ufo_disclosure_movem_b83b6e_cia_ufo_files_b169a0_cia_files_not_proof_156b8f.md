@@ -756,7 +756,7 @@ For readers navigating declassified archives, the key question is therefore not 
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90This study traces CIA interest and involvement in the UFO contro...</p></details>
 
 3. <a id="endnote-3"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — CIA official was not involved in the movement of extraterrestrial...</p></details>
@@ -795,7 +795,7 @@ For readers navigating declassified archives, the key question is therefore not 
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Title: Project [BLUE BOOK](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;)  
+   Title: Project [BLUE BOOK]({{ 'blue-book/' | relative_url }})  
    Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 

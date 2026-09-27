@@ -768,7 +768,7 @@ What endures politically is not agreement about the claims themselves, but agree
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate&#x27;s intelligence authorization bill questions &#x27;reverse...27 Jun 2023 — Buried in the Senate&#x27;s approved text of the Inte...</p></details>
 
 3. <a id="endnote-3"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO found no empirical evidence for claims that the...</p></details>
@@ -903,7 +903,7 @@ What endures politically is not agreement about the claims themselves, but agree
    Source: youtube.com  
    Title: David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing  
    Link: <a href="http://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lcrCMLVk614</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schumer Rounds UAP Disclosure Act defense contractors Military [whistleblowers](&amp;#123;&amp;#123; &#x27;whistleblowers/&#x27; | relative_url &amp;#125;&amp;#125;) share new evidence of alleged UAP at transparency hearing D...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schumer Rounds UAP Disclosure Act defense contractors Military [whistleblowers]({{ 'whistleblowers/' | relative_url }}) share new evidence of alleged UAP at transparency hearing D...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  

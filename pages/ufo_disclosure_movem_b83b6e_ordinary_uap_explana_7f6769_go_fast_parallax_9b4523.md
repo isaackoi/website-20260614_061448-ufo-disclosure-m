@@ -906,7 +906,7 @@ For discussions surrounding UFO disclosure, the lesson is not that every unusual
 36. <a id="endnote-36"></a>
    Source: skepticalinquirer.org  
    Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From: Volume 49, No. 1... Short for “Situation Recreation,” this tool was originally designed to analyze the U.S. [Navy videos](&amp;#123;&amp;#123; &#x27;navy-videos/&#x27; | relative_url &amp;#125;&amp;#125;) Gimbal and...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>From: Volume 49, No. 1... Short for “Situation Recreation,” this tool was originally designed to analyze the U.S. [Navy videos]({{ 'navy-videos/' | relative_url }}) Gimbal and...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: defensescoop.com  

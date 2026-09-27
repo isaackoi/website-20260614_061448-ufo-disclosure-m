@@ -807,7 +807,7 @@ NASA's framework suggests a different path. Public confidence should be built th
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
    Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/16" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/16</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>smartphone-based apps that simultaneously gather imaging data and other smartphone [sensor data](&amp;#123;&amp;#123; &#x27;sensor-data/&#x27; | relative_url &amp;#125;&amp;#125;) from multiple citizen observers. NASA shou...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>smartphone-based apps that simultaneously gather imaging data and other smartphone [sensor data]({{ 'sensor-data/' | relative_url }}) from multiple citizen observers. NASA shou...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
@@ -870,7 +870,7 @@ NASA's framework suggests a different path. Public confidence should be built th
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government documents, released by the Pentagon as part of its pledge for transparency on unidentified aerial phenomena (UAP), includes va...</p></details>
 
 19. <a id="endnote-19"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — national security programs that AARO assesses probably were associated with erroneous UAP r...</p></details>

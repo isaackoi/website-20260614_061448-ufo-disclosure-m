@@ -856,7 +856,7 @@ An unexplained UAP report can be important, worthy of investigation, and genuine
 20. <a id="endnote-20"></a>
    Source: wired.com  
    Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma]({{ 'stigma/' | relative_url }}) associated with reporting...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pbs.org  
@@ -864,7 +864,7 @@ An unexplained UAP report can be important, worthy of investigation, and genuine
     <details class="endnote-snippet"><summary>Source snippet</summary><p>no evidence of aliens or extraterrestrial intelligence... WATCH: NASA report says more science and less stigma are needed to understand...</p></details>
 
 22. <a id="endnote-22"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — • Although many UAP/UFO cases remain unsolved, based on the lack of evidence of the extrate...</p></details>
@@ -872,4 +872,4 @@ An unexplained UAP report can be important, worthy of investigation, and genuine
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Link: <a href="https://www.youtube.com/watch?v=Q-C5hXe_nWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q-C5hXe_nWI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DECLASSIFIED FOOTAGE of an Unresolved UAP tracked in...... corroborating telemetry or multi-modal [sensor data](&amp;#123;&amp;#123; &#x27;sensor-data/&#x27; | relative_url &amp;#125;&amp;#125;), AARO cannot determine whe...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DECLASSIFIED FOOTAGE of an Unresolved UAP tracked in...... corroborating telemetry or multi-modal [sensor data]({{ 'sensor-data/' | relative_url }}), AARO cannot determine whe...</p></details>

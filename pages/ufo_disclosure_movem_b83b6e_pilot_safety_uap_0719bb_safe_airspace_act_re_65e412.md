@@ -819,7 +819,7 @@ For that reason, the Safe Airspace for Americans Act should be understood as a g
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Link: <a href="https://www.reddit.com/r/UFOs/comments/1etpjgp/for_the_aviation_community_ryan_graves_americans/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etpjgp/for_the_aviation_community_ryan_graves_americans/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan Graves, Americans for Safe Aerospace, and...UAPs affect all, from the pilots to the passengers. At the time of the UAP [Hearings](&amp;#123;&amp;#123; &#x27;hearings/&#x27; | relative_url &amp;#125;&amp;#125;) (Ju...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan Graves, Americans for Safe Aerospace, and...UAPs affect all, from the pilots to the passengers. At the time of the UAP [Hearings]({{ 'hearings/' | relative_url }}) (Ju...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: merriam-webster.com  

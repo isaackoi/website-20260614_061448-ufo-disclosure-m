@@ -841,7 +841,7 @@ That tension explains why the Calvine photograph continues to attract attention 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Link: <a href="https://www.facebook.com/7NEWSMelbourne/posts/the-modern-myth-of-the-calvine-photo-was-sparked-following-a-peculiar-experience/10160724672144301/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSMelbourne/posts/the-modern-myth-of-the-calvine-photo-was-sparked-following-a-peculiar-experience/10160724672144301/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2072, was somehow found and released by UAP [Media](&amp;#123;&amp;#123; &#x27;media/&#x27; | relative_url &amp;#125;&amp;#125;)...Read more...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2072, was somehow found and released by UAP [Media]({{ 'media/' | relative_url }})...Read more...</p></details>
    Published: January 1, 2072  
 
 18. <a id="endnote-18"></a>

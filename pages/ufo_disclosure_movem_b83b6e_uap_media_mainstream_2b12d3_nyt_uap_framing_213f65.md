@@ -734,7 +734,7 @@ By anchoring UFO reporting to government records, military testimony, and instit
    Source: wired.com  
    Title: Will The New York Times Ever Stop Reporting on UFOs?  
    Link: <a href="https://www.wired.com/story/will-the-new-york-times-ever-stop-reporting-on-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/will-the-new-york-times-ever-stop-reporting-on-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Their initial story revealed a Pentagon program investigating such phenomena, which generated significant public and [media](&amp;#123;&amp;#123; &#x27;media/&#x27; | relative_url &amp;#125;&amp;#125;) interest. Desp...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Their initial story revealed a Pentagon program investigating such phenomena, which generated significant public and [media]({{ 'media/' | relative_url }}) interest. Desp...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  

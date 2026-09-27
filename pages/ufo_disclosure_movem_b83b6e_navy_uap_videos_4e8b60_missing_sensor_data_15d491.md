@@ -798,7 +798,7 @@ Viewed through that lens, FLIR, GIMBAL and GOFAST are not complete evidentiary p
    Published: June 15, 2023  
 
 5. <a id="endnote-5"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
    Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — AARO&#x27;s ability to resolve cases rema...</p></details>
@@ -857,7 +857,7 @@ Viewed through that lens, FLIR, GIMBAL and GOFAST are not complete evidentiary p
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR ([Tic Tac](&amp;#123;&amp;#123; &#x27;tic-tac/&#x27; | relative_url &amp;#125;&amp;#125;) UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR ([Tic Tac]({{ 'tic-tac/' | relative_url }}) UAP), Gimbal, and GoFast videos are “unreso...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
@@ -867,7 +867,7 @@ Viewed through that lens, FLIR, GIMBAL and GOFAST are not complete evidentiary p
 17. <a id="endnote-17"></a>
    Source: wired.com  
    Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma]({{ 'stigma/' | relative_url }}) associated with reporting...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  

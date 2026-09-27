@@ -825,7 +825,7 @@ For disclosure researchers, the lesson is straightforward: archive searches must
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 16. <a id="endnote-16"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). nationalarchives.gov.uk  
+   Source: [media]({{ 'media/' | relative_url }}). nationalarchives.gov.uk  
    Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives – UFO files (MoD)No information is available for this page...</p></details>
 

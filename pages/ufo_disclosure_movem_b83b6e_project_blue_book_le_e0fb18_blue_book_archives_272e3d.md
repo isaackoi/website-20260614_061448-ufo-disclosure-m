@@ -801,7 +801,7 @@ That is why the Blue Book archive continues to occupy a central place in the UFO
    Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 15. <a id="endnote-15"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). nationalarchives.gov.uk  
+   Source: [media]({{ 'media/' | relative_url }}). nationalarchives.gov.uk  
    Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives – UFO files (MoD)No information is available for this page...</p></details>
 

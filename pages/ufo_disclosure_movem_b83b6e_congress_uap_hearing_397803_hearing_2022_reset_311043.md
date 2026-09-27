@@ -835,7 +835,7 @@ That change helps explain why the event occupies a pivotal place in the history 
 
 20. <a id="endnote-20"></a>
    Source: defensescoop.com  
-   Title: military [whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;) share new evidence alleged uap ufo hearing  
+   Title: military [whistleblowers]({{ 'whistleblowers/' | relative_url }}) share new evidence alleged uap ufo hearing  
    Link: <a href="https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military whistleblowers share new evidence of alleged UAP...9 Sept 2025 — Tuesday marked the first UAP-focused hearing convened by the H...</p></details>
 

@@ -764,7 +764,7 @@ The Schumer–Rounds proposal briefly attempted to address both theories at once
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
    Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Act had aimed to rebuild public [trust](&amp;#123;&amp;#123; &#x27;trust/&#x27; | relative_url &amp;#125;&amp;#125;) by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Act had aimed to rebuild public [trust]({{ 'trust/' | relative_url }}) by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: newparadigminstitute.org  
@@ -823,6 +823,6 @@ The Schumer–Rounds proposal briefly attempted to address both theories at once
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Title: Lawmakers and UAP [whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;) gathered at the U.S  
+   Title: Lawmakers and UAP [whistleblowers]({{ 'whistleblowers/' | relative_url }}) gathered at the U.S  
    Link: <a href="https://www.facebook.com/wfxrnews/posts/lawmakers-and-uap-whistleblowers-gathered-at-the-us-capitol-tuesday-to-renew-cal/1413370704143918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wfxrnews/posts/lawmakers-and-uap-whistleblowers-gathered-at-the-us-capitol-tuesday-to-renew-cal/1413370704143918/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This proposed legislation aims to safeguard individuals who disclose information about federal funding used to study UAPs, ensuring they...</p></details>

@@ -799,7 +799,7 @@ That tension explains why Special Access Programmes remain central to the UFO di
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
-   Title: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;) engagement with acting aaro director tim phillips on the historical recor  
+   Title: [media]({{ 'media/' | relative_url }}) engagement with acting aaro director tim phillips on the historical recor  
    Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMedia Engagement With Acting AARO Director Tim Phillips...6 Mar 2024 — AARO has found no indications that any informati...</p></details>
 
@@ -895,7 +895,7 @@ That tension explains why Special Access Programmes remain central to the UFO di
 
 28. <a id="endnote-28"></a>
    Source: defensescoop.com  
-   Title: military [whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;) share new evidence alleged uap ufo hearing  
+   Title: military [whistleblowers]({{ 'whistleblowers/' | relative_url }}) share new evidence alleged uap ufo hearing  
    Link: <a href="https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military whistleblowers share new evidence of alleged UAP...9 Sept 2025 — The panel of witnesses who testified on Tuesday shed new light...</p></details>
 

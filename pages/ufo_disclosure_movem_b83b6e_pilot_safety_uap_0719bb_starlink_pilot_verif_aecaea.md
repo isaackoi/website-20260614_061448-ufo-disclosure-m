@@ -816,7 +816,7 @@ The result is a useful benchmark for future cases. If a sighting can survive com
    Source: oversight.house.gov  
    Title: Ryan HOC Testimony  
    Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) attached to UAP is real and powerful and challenges national security. It s...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The [stigma]({{ 'stigma/' | relative_url }}) attached to UAP is real and powerful and challenges national security. It s...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
